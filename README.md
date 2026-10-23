@@ -41,6 +41,7 @@ Whether you are managing resource fields, queueing up building upgrades, trainin
 ### 🛡️ 4. Advanced Anti-Detection & Account Safety
 * **Human-Like Action Delay:** Integrates randomized Gaussian delays between actions to simulate natural human clicks.
 * **Headless Browser Simulation:** Uses isolated browser sessions with unique headers and request behaviors to maximize account security.
+* **no tool is risk-free**
 
 ---
 
