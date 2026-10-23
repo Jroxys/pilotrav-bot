@@ -73,7 +73,7 @@ Whether you are managing resource fields, queueing up building upgrades, trainin
 
 ## 🎁 Getting Started & Free Trial
 
-We offer a **3-Day Free Trial** with full feature access for new users to test performance and stability:
+We offer a **7-Day Free Trial** with full feature access for new users to test performance and stability:
 
 1. Visit **[https://pilotrav.com](https://pilotrav.com)**.
 2. Register a new user account.
